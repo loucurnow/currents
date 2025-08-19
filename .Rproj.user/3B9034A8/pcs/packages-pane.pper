@@ -1,0 +1,7 @@
+{
+    "installOptions": {
+        "installFromRepository": true,
+        "libraryPath": "C:/Users/loucu/Documents/R Packages",
+        "installDependencies": true
+    }
+}

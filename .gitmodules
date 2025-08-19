@@ -1,0 +1,6 @@
+[submodule "American-Gut"]
+	path = American-Gut
+	url = https://github.com/biocore/American-Gut
+[submodule "hyperspectral-soilmoisture-dataset"]
+	path = hyperspectral-soilmoisture-dataset
+	url = https://github.com/felixriese/hyperspectral-soilmoisture-dataset.git
